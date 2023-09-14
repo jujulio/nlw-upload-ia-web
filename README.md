@@ -26,7 +26,7 @@ https://github.com/jujulio/nlw-upload-ia-web.git
 # Instalar dependências:
 $ "pnpm i"
 # Rodar a aplicação
-$ pnpm run dev
+$ "pnpm run dev"
 
 ```
 
