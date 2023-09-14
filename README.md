@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido utilizando:
  
 ## :rocket: Baixando o projeto: 
 ```javascript
-[[https://github.com/jujulio/Alcool_Gasolina.git ](https://github.com/jujulio/node-do-zero.git)](https://github.com/jujulio/nlw-upload-ia-web.git)
+https://github.com/jujulio/nlw-upload-ia-web.git
 ```
 
 ### :rocket: Configuração inicial
