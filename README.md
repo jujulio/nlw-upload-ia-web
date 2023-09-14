@@ -14,11 +14,8 @@ https://github.com/jujulio/nlw-upload-ia-web.git
 ```
 
 ### :rocket: Configuração inicial
-1. Necessário baixar e rodar as APIs
-```javascript
-https://github.com/jujulio/nlw-upload-ia-web.git
-```
-
+1. Necessário baixar e rodar as
+   [APIs](https://github.com/jujulio/nlw-upload-ia-api)
 
 ### :package: Rodar API
 
